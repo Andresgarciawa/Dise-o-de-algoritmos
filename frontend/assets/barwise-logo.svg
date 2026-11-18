@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="BarWise">
+  <circle cx="64" cy="64" r="61" fill="#064e4b"/>
+  <path d="M39 39h49l-5 10H44z" fill="#f6f1df"/>
+  <path d="M44 49l7 27c1 5 6 8 13 8s12-3 13-8l7-27" fill="none" stroke="#f6f1df" stroke-width="3"/>
+  <path d="M50 58c8 7 14-5 22 1 6 4 9-2 13-5" fill="none" stroke="#e3b52f" stroke-width="4" stroke-linecap="round"/>
+  <path d="M64 84v22M52 107h24" stroke="#f6f1df" stroke-width="4" stroke-linecap="round"/>
+</svg>
